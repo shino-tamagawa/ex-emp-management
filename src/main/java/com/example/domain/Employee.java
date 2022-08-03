@@ -1,4 +1,4 @@
-package jp.co.sample.domain;
+package com.example.domain;
 
 import java.util.Date;
 
